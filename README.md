@@ -41,5 +41,3 @@ Once a day, the twitter bot posted a headline using the twitter api. The randoml
 chosen tweet was first automatically edited to be consistent with TheOnion tweets,
 then posted using along with an appropriate image scraped from google using semantic
 analysis of the tweet.
-
-## Examples
