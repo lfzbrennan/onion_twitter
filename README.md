@@ -16,11 +16,11 @@ nlp algorithms used.
 ## Examples
 From [@vinylte](https://twitter.com/vinylte).
 
-["Jesus’s Love is Revealed: in a Sex Tape, and it’s Called "Woo & Roll... the Vixen Chocolate""](./examples/tweet5.png)
-["University Clinic Says "Don’t Touch" Mccain’s Ex-Wife"](./examples/tweet2.png)
-["A List Of Common Household Items That Could Kill You If You're A Fucking Moron"](./examples/tweet1.png)
-["Court Says "She is a Lesbian, But She Must Marry a Man, Then Sell Her Ex-Wife""](./examples/tweet3.png)
-["Giving Coffee To The Homeless Now A Crime In San Francisco"](./examples/tweet4.png)
+!["Jesus’s Love is Revealed: in a Sex Tape, and it’s Called "Woo & Roll... the Vixen Chocolate""](./examples/tweet5.png)
+!["University Clinic Says "Don’t Touch" Mccain’s Ex-Wife"](./examples/tweet2.png)
+!["A List Of Common Household Items That Could Kill You If You're A Fucking Moron"](./examples/tweet1.png)
+!["Court Says "She is a Lesbian, But She Must Marry a Man, Then Sell Her Ex-Wife""](./examples/tweet3.png)
+!["Giving Coffee To The Homeless Now A Crime In San Francisco"](./examples/tweet4.png)
 
 
 
