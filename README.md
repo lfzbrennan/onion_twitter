@@ -14,7 +14,6 @@ experiment. That being said, these tweets are not a reflection of me, and only o
 nlp algorithms used.
 
 ## Examples
-From [@vinylte](https://twitter.com/vinylte).
 
 !["Jesus’s Love is Revealed: in a Sex Tape, and it’s Called "Woo & Roll... the Vixen Chocolate""](./examples/tweet5.png)
 !["University Clinic Says "Don’t Touch" Mccain’s Ex-Wife"](./examples/tweet2.png)
