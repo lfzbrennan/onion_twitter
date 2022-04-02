@@ -20,7 +20,7 @@ def get_image_url(headline):
 	search_words = get_important_words(headline)
 	query = '+'.join(search_words)
 
-	my_key = "x4IumhURJUuRf-4QZWjbRP7XGYTTO-Z4W0HxpQTrk44"
+	my_key = ""
 	request_text = f"https://api.unsplash.com/search/photos?page=1&query={query}&client_id={my_key}"
 	data = requests.get(request_text)
 	json_data = data.json()
@@ -37,8 +37,8 @@ def get_processed_headline_and_image(headline_list):
 	return headline_out, image_url
 
 def twitter_api():
-	auth = OAuthHandler("MKd6SM3JsMaDfUx6osxzJw7cY", "lRvScJlfQpyS8iWqfGvvq7aMFrHa0EKWc2Rifwa3weazKGuR4l")
-	auth.set_access_token("1315379653318770689-lOfOCsRGCvLEaH7ZATHqYcvrwYZb9r", "Uag7RribsrZv61KzkWEIp6ul9DiHeIhyQ9TALUkylhK3h")
+	auth = OAuthHandler("")
+	auth.set_access_token("")
 	api = API(auth)
 	return api
 
